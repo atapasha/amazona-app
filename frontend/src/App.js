@@ -51,6 +51,7 @@ function App() {
                         <i className="fa fa-star"></i>
                       </span>
                     </div>
+                    
                     <div>
                       <span>
                         <i className="fa fa-star"></i>
